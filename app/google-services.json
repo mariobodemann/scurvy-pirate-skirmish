@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "924344517889",
+    "firebase_url": "https://scurvy-pirate-skirmish.firebaseio.com",
+    "project_id": "scurvy-pirate-skirmish",
+    "storage_bucket": "scurvy-pirate-skirmish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924344517889:android:1e5f3fdffd3b7d58",
+        "android_client_info": {
+          "package_name": "net.mariobodemann.scurvypirateskirmish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924344517889-b62ie3vrhn4c4fu6r7r7he0okvqbb267.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.mariobodemann.scurvypirateskirmish",
+            "certificate_hash": "0a7fd12041770c72a6948b3e7551e0b51d857d16"
+          }
+        },
+        {
+          "client_id": "924344517889-lohge8pmpbe6un3s4aumcg4nhd7b42ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3K0H5zuI8233dVKrdYO8f6EyhM-PI7Ek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924344517889-lohge8pmpbe6un3s4aumcg4nhd7b42ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
